@@ -1,6 +1,6 @@
 # MySQL install on OSX
 
-Based in instructions from here: https://dev.mysql.com/doc/refman/5.7/en/osx-installation.html
+Based on instructions from here: https://dev.mysql.com/doc/refman/5.7/en/osx-installation.html
 
 
 ## Install the Server
@@ -21,11 +21,11 @@ Step [2.4.3 Installing a MySQL Launch Daemon](https://dev.mysql.com/doc/refman/5
 
 Follow the steps explaining how to use System Preferences.
 
-![alt text](../images/mysql-system-pref-launchd.png "Start/Stop MySQL Server")
+![alt text](../blob/images/mysql-system-pref-launchd.png "Start/Stop MySQL Server")
 
 At this step, do no select the box for automatically starting up the server. Otherwise you will have MySQL running every time you use your computer.
 
-![alt text](../images/mysql-auto-start.png "Auto Stop MySQL Server")
+![alt text](../blob/images/mysql-auto-start.png "Auto Stop MySQL Server")
 
 ## Prepare your command line to work
 
